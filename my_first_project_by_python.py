@@ -308,6 +308,3 @@ if __name__ == "__main__":
     App = SkillTracker()
     while(True):
         App.play()
-
-
-#! this line for test push in githup

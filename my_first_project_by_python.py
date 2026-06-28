@@ -308,7 +308,4 @@ if __name__ == "__main__":
     App = SkillTracker()
     while(True):
         App.play()
-
-
-#test
-#!this line from VScode
+        
